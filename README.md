@@ -7,11 +7,11 @@
 Este projeto foi desenvolvido durante a trilha/curso Explorer oferecida pela Rocketseat.
 
 <p align="center">
-  <img alt="dashboard" src=".img/signIn.png" width="100%">
-  <img alt="dashboard" src=".img/createAccount.png" width="100%">
-  <img alt="dashboard" src=".img/home.png" width="100%">
-  <img alt="cadastrar" src=".img/viewNote.png" width="100%">
-  <img alt="dashboard" src=".img/profile.png" width="100%">
+  <img alt="signIn" src="img/signIn.png" width="100%">
+  <img alt="createAccount" src="img/createAccount.png" width="100%">
+  <img alt="home" src="img/home.png" width="100%">
+  <img alt="viewNote" src="img/viewNote.png" width="100%">
+  <img alt="profile" src="img/profile.png" width="100%">
 </p>
 
 ## 🚀 Executar a aplicação
