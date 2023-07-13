@@ -27,7 +27,7 @@ $ npm run dev
 Executar o aplicativo em modo de desenvolvimento
 
 
-## 🛠️ Linguagens
+## 🛠️ Tecnologias
 
 * FrontEnd: ReactJS, Javascript, Vite, Styled Components e Axios
 * BackEnd: NodeJS e Express
