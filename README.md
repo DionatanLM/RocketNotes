@@ -11,6 +11,7 @@ Este projeto foi desenvolvido durante a trilha/curso Explorer oferecida pela Roc
   <img alt="createAccount" src="img/createAccount.png" width="100%">
   <img alt="home" src="img/home.png" width="100%">
   <img alt="viewNote" src="img/viewNote.png" width="100%">
+  <img alt="note" src="img/note.png" width="100%">
   <img alt="profile" src="img/profile.png" width="100%">
 </p>
 
