@@ -6,15 +6,6 @@
 
 Este projeto foi desenvolvido durante a trilha/curso Explorer oferecida pela Rocketseat.
 
-<p align="center">
-  <img alt="signIn" src="img/signIn.png" width="100%">
-  <img alt="createAccount" src="img/createAccount.png" width="100%">
-  <img alt="home" src="img/home.png" width="100%">
-  <img alt="viewNote" src="img/viewNote.png" width="100%">
-  <img alt="note" src="img/note.png" width="100%">
-  <img alt="profile" src="img/profile.png" width="100%">
-</p>
-
 ## 🚀 Executar a aplicação
 Você precisará do Node.js instalado no seu computador para iniciar este aplicativo.
 
@@ -42,3 +33,13 @@ Executar o aplicativo em modo de desenvolvimento
 - [x] Criar uma nota
 - [x] Excluir uma nota
 - [x] Editar perfil
+
+
+<p align="center">
+  <img alt="signIn" src="img/signIn.png" width="100%">
+  <img alt="createAccount" src="img/createAccount.png" width="100%">
+  <img alt="home" src="img/home.png" width="100%">
+  <img alt="viewNote" src="img/viewNote.png" width="100%">
+  <img alt="note" src="img/note.png" width="100%">
+  <img alt="profile" src="img/profile.png" width="100%">
+</p>
