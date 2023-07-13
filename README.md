@@ -3,7 +3,7 @@
 </h1>
 
 > O Rocketnotes é uma plataforma web que permite aos usuários registrarem-se e criarem anotações organizadas sobre assuntos específicos. Ela oferece recursos como a adição de títulos, descrições, links e tags para cada nota, garantindo uma estruturação eficiente. Além disso, os usuários têm a liberdade de personalizar seus perfis, alterando seu avatar, nome, e-mail e senha de forma fácil e rápida
-
+Link do prejeto no ar: https://luminous-griffin-db61f0.netlify.app/
 Este projeto foi desenvolvido durante a trilha/curso Explorer oferecida pela Rocketseat.
 
 <p align="center">
@@ -32,6 +32,7 @@ Executar o aplicativo em modo de desenvolvimento
 * FrontEnd: ReactJS, Javascript, Vite, Styled Components e Axios
 * BackEnd: NodeJS e Express
 * Banco de Dados: SQlite e Knex.js como Query Builder
+* Deploy: Render e Netlify
 
 ## ⚙️ Funções
 
